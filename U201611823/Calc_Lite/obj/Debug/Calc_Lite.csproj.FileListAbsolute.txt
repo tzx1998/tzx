@@ -1,0 +1,10 @@
+E:\vs  example\Calc_Lite\Calc_Lite\bin\Debug\Calc.exe.config
+E:\vs  example\Calc_Lite\Calc_Lite\bin\Debug\Calc.exe
+E:\vs  example\Calc_Lite\Calc_Lite\bin\Debug\Calc.pdb
+E:\vs  example\Calc_Lite\Calc_Lite\obj\Debug\Calc_Lite.csprojAssemblyReference.cache
+E:\vs  example\Calc_Lite\Calc_Lite\obj\Debug\WindowsFormsApp3.CalcForm.resources
+E:\vs  example\Calc_Lite\Calc_Lite\obj\Debug\Calc.Properties.Resources.resources
+E:\vs  example\Calc_Lite\Calc_Lite\obj\Debug\Calc_Lite.csproj.GenerateResource.cache
+E:\vs  example\Calc_Lite\Calc_Lite\obj\Debug\Calc_Lite.csproj.CoreCompileInputs.cache
+E:\vs  example\Calc_Lite\Calc_Lite\obj\Debug\Calc.exe
+E:\vs  example\Calc_Lite\Calc_Lite\obj\Debug\Calc.pdb
